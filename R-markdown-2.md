@@ -5,7 +5,8 @@ Andhika Nurrafli Putra
 
 ## Loading my Environment
 
-Kode di bawah ini merupakan kode untuk memuat data dari palmer penguins
+Kode di bawah ini merupakan kode untuk memuat data dari palmer penguins, kode-kode R studio dibawah ini merupakan data yang saya pelajari sepenuhnya dari google data analitik class. 
+Kode ini menggunakan 'tidyverse' untuk mempermudah saya sebagai pemula dalam mengelola data yang ada. sehingga didapat hasil-hasilnya sebagai berikut.
 
 ## Mencoba Untuk mevisualisasikan data palmer penguins
 
