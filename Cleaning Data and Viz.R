@@ -37,6 +37,6 @@ ggplot(data = big_penguins) +
        caption = "Data Collected by Dr. Kristen Gorman")+
   annotate("text", x = 1.5, y = 78, label = "Gentoos are the largest")
 
+# saving your viz
 
-
-
+ggsave("Palmer Penguins size.png")
